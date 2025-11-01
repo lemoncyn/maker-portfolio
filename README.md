@@ -44,4 +44,27 @@ Model training data, named according to the group, for SHAP background data
 
 https://drive.google.com/drive/folders/15GdfUJj-B17jnfBnfLQZPNX8LFjUaDob?usp=sharing
 
-## Sources and Citations
+## Data Sources
+* Global Biodiversity Information Facility Monarch Butterfly (Danaus plexippus) Occurrence Data: https://doi.org/10.15468/dl.ybejfm
+* WorldClim Elevation Data: https://www.worldclim.org/data/worldclim21.html
+* WorldClim Historical Monthly Weather Data: https://www.worldclim.org/data/monthlywth.html
+* United States Geological Survey (USGS) National Water-Quality Assessment (NAWQA) Pesticide National Synthesis Project County-Level Glyphosate Use Data: https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/
+* Land-Use Harmonization 2 (LUH2) v2h Release Land Cover Data: https://luh.umd.edu/data.shtml
+* WorldClim Future Climate Data from Hadley Centre Global Environment Model (HadGEM3) for 2061-2080: https://www.worldclim.org/data/cmip6/cmip6_clim10m.html
+* Land-Use Harmonization 2 (LUH2) v2f Release Future Land Cover Projections: https://luh.umd.edu/data.shtml
+
+## Methodology Bibliography
+### Migration Stages Grouping
+
+Oberhauser, K., Wiederholt, R., Diffendorfer, J. E., Semmens, D., Ries, L., Thogmartin, W. E., Lopez-Hoffman, L., & Semmens, B. (2016). A trans-national monarch butterfly population model and implications for regional conservation priorities. *Ecological Entomology, 42*(1), 51–60. https://doi.org/10.1111/een.12351
+
+Flockhart, D. T. T., Wassenaar, L. I., Martin, T. G., Hobson, K. A., Wunder, M. B., & Norris, D. R. (2013). Tracking multigenerational colonization of the breeding grounds by monarch butterflies in eastern North America. *Proceedings of the Royal Society B: Biological Sciences, 280*(1768), 20131087. https://doi.org/10.1098/rspb.2013.1087
+
+### Surface Range Envelope (SRE) Pseudo-Absence Generation Method
+Barbet-Massin, M., Jiguet, F., Albert, C. H., & Thuiller, W. (2012). Selecting pseudo-absences for species distribution models: how, where and how many? *Methods in Ecology and Evolution, 3*(2), 327–338. https://doi.org/10.1111/j.2041-
+210x.2011.00172.x
+
+### CNN-SDM Architecture
+Deneu, B., Servajean, M., Bonnet, P., Botella, C., Munoz, F., & Joly, A. (2021). Convolutional neural networks improve species distribution modelling by capturing the spatial structure of the environment. *PLOS Computational Biology, 17*(4), e1008856. https://doi.org/10.1371/journal.pcbi.1008856
+
+Deneu, B., Joly, A., Bonnet, P., Servajean, M., & Munoz, F. (2022). Very High Resolution Species Distribution Modeling Based on Remote Sensing Imagery: How to Capture FineGrained and Large-Scale Vegetation Ecology With Convolutional Neural Networks? *Frontiers in Plant Science, 13*, 839279. https://doi.org/10.3389/fpls.2022.839279
