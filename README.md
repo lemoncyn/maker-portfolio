@@ -52,6 +52,8 @@ https://drive.google.com/drive/folders/15GdfUJj-B17jnfBnfLQZPNX8LFjUaDob?usp=sha
 * Land-Use Harmonization 2 (LUH2) v2h Release Land Cover Data: https://luh.umd.edu/data.shtml
 * WorldClim Future Climate Data from Hadley Centre Global Environment Model (HadGEM3) for 2061-2080: https://www.worldclim.org/data/cmip6/cmip6_clim10m.html
 * Land-Use Harmonization 2 (LUH2) v2f Release Future Land Cover Projections: https://luh.umd.edu/data.shtml
+* World Bank Official Boundaries: https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
+* Commission for Environmental Cooperation Political Boundaries: https://www.cec.org/north-american-environmental-atlas/political-boundaries-2021/
 
 ## Methodology Bibliography
 ### Migration Stages Grouping
